@@ -1,4 +1,4 @@
-# Treinamento Node.JS 
+# Treinamento de Node.JS 
 
 Projeto criado durante o treinamento - Avanade
 
